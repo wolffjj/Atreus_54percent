@@ -1,5 +1,5 @@
 # Atreus_54percent
-This is the repository for my Backlit, 58 key Atreus Keyboard.
+This is the repository for my Backlit, 58 key Atreus Keyboard that supports all-key backlighting.
 
 The repository is a little messy right now, but hopefully the files are in working condition. Since I did a horrible job documenting ald labelling all of my pads, please let me know if the kiCAD files aren't workinf correctly.
 
